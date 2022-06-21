@@ -22,3 +22,9 @@ The two datasets are related to red and white variants of the Portuguese "Vinho 
 11) alcohol
 Output variable (based on sensory data):
 12)quality (score between 0 and 10)
+
+# Algorithm Applied
+
+### Random Forest Classifier:
+
+It is one of the most powerful Supervised Machine Learning Algorithm. It is can used for equally for regression and classification problem. It works well with default hyper-parameters.It is similar to decision tree; it builds multipledecision trees and combine them all together.It gives more accurate and stable predictions. Whether we’ve got a regression or classification problem, Random Forest Classifier is an applicable model for our needs. It can handle numerical features, categorical features, and binary features. Before using this algorithm, pre-processing is needed that needs to be done. It is not necessary for the data to be rescaledor changed.
