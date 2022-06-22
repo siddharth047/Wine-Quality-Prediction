@@ -28,3 +28,16 @@ Output variable (based on sensory data):
 ### Random Forest Classifier:
 
 It is one of the most powerful Supervised Machine Learning Algorithm. It is can used for equally for regression and classification problem. It works well with default hyper-parameters.It is similar to decision tree; it builds multipledecision trees and combine them all together.It gives more accurate and stable predictions. Whether we’ve got a regression or classification problem, Random Forest Classifier is an applicable model for our needs. It can handle numerical features, categorical features, and binary features. Before using this algorithm, pre-processing is needed that needs to be done. It is not necessary for the data to be rescaledor changed.
+
+# Acknowledgement
+
+This dataset is available on the UCI machine learning repository, https://archive.ics.uci.edu/ml/datasets/wine+quality ( I am not the owner of this dataset ).
+
+# Reference 
+
+• Benjamin, B.A. and Podolny, J.M. (1999). Status, quality, and social order in the California wine industry. Administrative Science Quarterly, 44, 563–589.CrossRefGoogle Scholar
+• Cicchetti, D.V. (2004a). Who won the 1976 blind tasting of French Bordeaux and U.S. cabernets? Parametrics to the rescue. Journal of Wine Research, 15, 211–220.CrossRefGoogle Scholar
+• Cicchetti, D.V. (2004b). On designing experiments and analysing data to assess the reliability and accuracy of blind wine tastings. Journal of Wine Research, 15, 221–226.CrossRefGoogle Scholar.
+• Cicchetti, D.V. (2006). The Paris 1976 wine tastings revisited once more: comparing ratings of consistent and inconsistent tasters. Journal of Wine Economics, 1, 125–140.CrossRefGoogle Scholar.
+• Hulkower, N. (2009). The judgment of Paris according to Borda, Journal of Wine Research, 20, 171–182.CrossRefGoogle Scholar.
+• Schnabel, H. and Storchmann, K. (2010). Prices as quality signals: evidence from the wine market. Journal of Agricultural & Food Industrial Organization, 8, 1–21.CrossRefGoogle Scholar.
