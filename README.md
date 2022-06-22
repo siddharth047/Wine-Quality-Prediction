@@ -32,10 +32,15 @@ It is one of the most powerful Supervised Machine Learning Algorithm. It is can 
 # Conclusion
 
 By looking into the details, we can see that good quality wines have higher levels of alcohol on average, have a lower volatile acidity on average, higher levels of sulphates on average, and higher levels of residual sugar on average. From the plots below we can conclude:
+
 • Quality is high when volatile acidity is less.
+
 • Quality is high when citric acid is high.
+
 • Quality is high when chlorides are less.
+
 • Quality is high when sulphates are more.
+
 • Quality is high when alcohol is more
 
 For classifying the wine quality, we are able to achieve a maximum accuracy of 92.8125% using Random Forest.
