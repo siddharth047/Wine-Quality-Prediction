@@ -29,6 +29,19 @@ Output variable (based on sensory data):
 
 It is one of the most powerful Supervised Machine Learning Algorithm. It is can used for equally for regression and classification problem. It works well with default hyper-parameters.It is similar to decision tree; it builds multipledecision trees and combine them all together.It gives more accurate and stable predictions. Whether we’ve got a regression or classification problem, Random Forest Classifier is an applicable model for our needs. It can handle numerical features, categorical features, and binary features. Before using this algorithm, pre-processing is needed that needs to be done. It is not necessary for the data to be rescaledor changed.
 
+# Conclusion
+
+By looking into the details, we can see that good quality wines have higher levels of alcohol on average, have a lower volatile acidity on average, higher levels of sulphates on average, and higher levels of residual sugar on average. From the plots below we can conclude:
+• Quality is high when volatile acidity is less.
+• Quality is high when citric acid is high.
+• Quality is high when chlorides are less.
+• Quality is high when sulphates are more.
+• Quality is high when alcohol is more
+
+For classifying the wine quality, we are able to achieve a maximum accuracy of 92.8125% using Random Forest.
+
+Wine Quality with 7 or higher getting classified as 'Good Quality Wine/1' and the remainder as 'Bad Quality Wine/0'
+
 # Acknowledgement
 
 This dataset is available on the UCI machine learning repository, https://archive.ics.uci.edu/ml/datasets/wine+quality ( I am not the owner of this dataset ).
